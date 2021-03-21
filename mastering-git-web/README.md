@@ -12,4 +12,4 @@ This repository houses a proposed website for the Mastering Git book.
 합성 기술은 fastspeech2를 활용하며, espnet이라는 end-to-end 오픈소스 소프트웨어를 통해 직접 음성합성기를 개발합니다.
 이를 ios 앱에 삽입하여 누구든 편리하게 사용할 수 있도록 합니다.
 
-Contact: mwkoo@sogang.ac.kr
+Contact: yeeunlee@gmail.com
